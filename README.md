@@ -1,4 +1,4 @@
-## Hi there, I'm [Kishan](https://kishanlal.dev/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm [DEVULAPALLY SAIRAM](https://kishanlal.dev/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
@@ -13,19 +13,18 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Senior Software Engineer at [Presidio](https://www.presidio.com/);
-- 💼 I’ve completed my Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/);
+- 👨🏽‍💻 I’m an  enthusiastic Software Engineer Student at SR UNIVERSITY
+- 💼 I am pursuing my Bachelor's degree in  Computer Science Engineering  at SR UNIVERSITY (https://sru.edu.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via kishanlal0725@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/kishan0725/) to reach me;
+- 📫 Please email via sairamdevulpally96@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/sairam-devulapally-49303921b/) to reach me;
 <br/> 
 </em>
 
 ### Worked with 
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="php"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jquery"></code>
