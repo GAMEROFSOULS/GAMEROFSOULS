@@ -47,4 +47,4 @@
 
 ### Follow Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan0725/)](https://www.linkedin.com/in/kishan0725/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sairam-devulapally-49303921b/)]([https://www.linkedin.com/in/kishan0725/](https://www.linkedin.com/in/sairam-devulapally-49303921b/)) 
